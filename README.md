@@ -6,7 +6,7 @@
 
 ## To be done:
 1) Logistic Regression
-2) Multiple Linear Regression
+2) Multi-Variate Regression
 3) Naive Bayes
 4) SVM
 5) Decision Trees
