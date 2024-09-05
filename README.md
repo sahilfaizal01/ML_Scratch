@@ -13,6 +13,8 @@
 6) Random Forest
 7) KNN
 8) K-Means Clustering
+9) PCA
+10) LDA
 
 ## Text Based
 1) Text tokenization
